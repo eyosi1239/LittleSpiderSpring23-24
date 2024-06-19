@@ -1,7 +1,3 @@
-# LittleSpiderSpring23-24
- This program plays a version of Little Spider Solitaire. In this version the foundation piles of two red aces and two black kings are created when the game begins. The eight tableau piles are in one horizontal line. At any time, cards can be moved from the tableau to the foundation piles or to another tableau, as long as it is a valid move. One point is earned for every valid move to a foundation pile.
-Here is a GitHub description for the Little Spider Solitaire game:
-
 ### Features
 - **Foundation Setup:** Starts with two red aces and two black kings.
 - **Tableau Layout:** Eight tableau piles in a horizontal line.
