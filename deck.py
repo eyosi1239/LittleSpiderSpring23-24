@@ -1,17 +1,9 @@
 '''
-Name: Eyosias Teafaye
-CSC 201
-Programming Project 4--Deck Class
-
 The Deck class represents a stadard deck of playing cards with or without two jokers.
 The card files for the graphic of each card are in a folder named cards. Each card
 file is named with its rank and a letter for its suit. For example, the 4 of hearts
 is in the file 4h.gif while the jack of clubs is in the file 11c.gif. Aces will have
 rank 1 and kings rank 13. 
-
-Document Assistance (who and what or declare no assistance):
-
-No assitance given or recieved
 
 '''
 from card import Card
