@@ -1,15 +1,8 @@
 '''
-Name: Eyosias Tesfaye
-CSC 201
-Programming Project 4--Card Class
 
 The Card class represents one standard poker card for a card game. Cards have a rank,
 a suit, and an image. The card stores its position in a graphics window. It can be drawn and
 undrawn in the graphics window.
-
-Document Assistance (who and what or declare no assistance):
-NO assitnace given or recieved
-
 
 '''
 from graphics2 import *
