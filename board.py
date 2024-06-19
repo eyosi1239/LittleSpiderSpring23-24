@@ -1,9 +1,6 @@
 '''
 DO NOT CHANGE THIS FILE!
 
-CSC 201
-Programming Project 4--LittleSpiderBoard class
-
 The LittleSpiderBoard class places cards onto the board and manages the movement
 of the cards for a version of the little spider solitaire game. The board has eight tableau piles,
 one stock pile, and four foundation piles. The foundation piles begin with the two red aces
